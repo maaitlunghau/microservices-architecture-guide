@@ -33,3 +33,7 @@
 <br/>
 
 ![alt text](microservices-guide-7.jpg)
+
+<br/>
+
+![alt text](microservice-guide-8.jpg)
