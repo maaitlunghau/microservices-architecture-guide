@@ -17,3 +17,7 @@
 <br/>
 
 ![alt text](microservices-guide-3.jpg)
+
+<br/>
+
+![alt text](microservices-guide-4.jpg)
