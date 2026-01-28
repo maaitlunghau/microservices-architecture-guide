@@ -13,3 +13,7 @@
 <br/>
 
 ![alt text](microservice-guide-2.jpg)
+
+<br/>
+
+![alt text](microservices-guide-3.jpg)
