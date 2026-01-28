@@ -9,3 +9,7 @@
 <br/>
 
 ![alt text](microservice-guide-1.jpg)
+
+<br/>
+
+![alt text](microservice-guide-2.jpg)
