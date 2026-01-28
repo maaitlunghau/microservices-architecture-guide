@@ -26,3 +26,6 @@
 
 ![alt text](microservice-guide-5.jpg)
 
+<br/>
+
+![alt text](microservices-guide-6.jpg)
