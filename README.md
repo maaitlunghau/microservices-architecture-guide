@@ -29,3 +29,7 @@
 <br/>
 
 ![alt text](microservices-guide-6.jpg)
+
+<br/>
+
+![alt text](microservices-guide-7.jpg)
